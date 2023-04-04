@@ -1,0 +1,49 @@
+body
+{
+    background-image: url( 'https://wallpaperaccess.com/full/17520.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#top
+{
+    text-align: center;
+}
+#left
+{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+#mid
+{
+    text-align: center;
+    float: left;
+    width: 34%;
+}
+#right
+{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+#bottom
+{
+    clear: both;
+    text-align: center;
+}
+#zdj
+{
+    border: 5px solid black;
+    border-radius: 25px;
+}
+#text
+{
+    font-size: large;
+    color: red;
+    background-color: gray;
+    border: 5px solid black;
+    border-radius: 30px;
+    height: 500px;
+    opacity: 0.5;
+    
+}
